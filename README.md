@@ -11,3 +11,4 @@ The classic Pong game recreated using the PyGame framework.
   Run 1P.py
   - Player: Use up key to move up and down key to move down.
   - AI: Be an AI and move automatically please.
+To terminate the program press the X key.
